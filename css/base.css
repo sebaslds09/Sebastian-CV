@@ -1,0 +1,34 @@
+body
+{
+	background: #FFFFF6;
+}
+
+.header-img
+{
+width: 1024px;
+height: 200px;
+background-image: url("../img/header.png");
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+.header-pic
+{
+width: 130px;
+height: 165px;
+background-image: url("../img/headerpic.png");
+background-size: 100% 100%;
+background-repeat: no-repeat;
+position: relative;
+left: 85px;
+bottom:-35px;
+}
+
+.hv-img
+{
+width: 105px;
+height: 135px;
+position: relative;
+bottom: -15px;
+left: 15px;
+}
