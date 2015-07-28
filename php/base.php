@@ -13,10 +13,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
 	<body>
-		<header class="container header-img">
-			<div class="row">
-				<div class="header-pic"><img src="../img/hv.jpg" class="hv-img"></div>
-			</div>
+		<header class="center-block header-img">
+				<div class="header-pic"><img src="../img/hv.jpg" class="hv-img img-responsive"></div>
 		</header>
 		<div id="dBanner"></div>
 		<nav>
