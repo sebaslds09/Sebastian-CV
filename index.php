@@ -14,7 +14,7 @@
 	</head>
 	<body>
 		<header class="center-block header-img">
-				<div class="header-pic"><img src="./img/hv.jpg" class="hv-img img-responsive"></div>
+				<div class="header-pic"><img src="./img/hv.JPG" class="hv-img img-responsive"></div>
 		</header>
 		<div id="dBanner"></div>
 		<nav class="navbar navbar-default center-block">
