@@ -17,10 +17,18 @@
 				<div class="header-pic"><img src="../img/hv.jpg" class="hv-img img-responsive"></div>
 		</header>
 		<div id="dBanner"></div>
-		<nav>
-			<ul id="uMenu">
-				<li>Home</li>
-			</ul>
+		<nav class="navbar navbar-default">
+			<div class="container">
+				<div class="row">
+					<ul id="uMenu" class="nav navbar-nav">
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Experience</a></li>
+						<li><a href="#">About Me</a></li>
+						<li><a href="#">Hobbies</a></li>
+						<li><a href="#">I'm Recommended by...</a></li>
+					</div>
+				</ul>
+			</div>
 		</nav>
 		<main></main>
 	</body>
