@@ -17,7 +17,7 @@
 				<div class="header-pic"><img src="../img/hv.jpg" class="hv-img img-responsive"></div>
 		</header>
 		<div id="dBanner"></div>
-		<nav class="navbar navbar-default">
+		<nav class="navbar navbar-default center-block">
 			<div class="container">
 				<div class="row">
 					<ul id="uMenu" class="nav navbar-nav">
@@ -26,6 +26,7 @@
 						<li><a href="#">About Me</a></li>
 						<li><a href="#">Hobbies</a></li>
 						<li><a href="#">I'm Recommended by...</a></li>
+						<li><a href="#">Make a Offer</a></li>
 					</div>
 				</ul>
 			</div>
