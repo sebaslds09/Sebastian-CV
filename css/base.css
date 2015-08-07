@@ -33,7 +33,7 @@ bottom: -15px;
 left: 15px;
 }
 
-nav
+@media screen and (max-width: 768px)
 {
 	nav
 	{
