@@ -18,7 +18,7 @@
 		</header>
 		<div id="dBanner"></div>
 		<nav class="navbar navbar-default center-block">
-			<div class="container">
+			<div class="container center-block">
 				<div class="row">
 					<ul id="uMenu" class="nav navbar-nav">
 						<li><a href="#">Home</a></li>

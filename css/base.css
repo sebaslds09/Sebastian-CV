@@ -35,5 +35,27 @@ left: 15px;
 
 nav
 {
-width: 80%;
+	nav
+	{
+	width: 80%;
+	background-image: url("../img/nav-xs.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	padding:5px;
+	}
 }
+
+@media screen and (min-width: 769px)
+{
+	nav
+	{
+	width: 80%;
+	background-image: url("../img/nav.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	padding:5px;
+	}
+}
+
+@navbar-default-bg=transparent;
+
