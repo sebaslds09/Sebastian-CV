@@ -1,4 +1,13 @@
 <?PHP
+if(isset($_GET['idPag']))
+{
+	if($_GET['idPag']=='ini')
+	{
+		$idPag='ini';
+	}
+}
+else
+		$idPag='build';
 
 ?>
 <!DOCTYPE html>
@@ -21,7 +30,7 @@
 			<div class="container">
 				<div class="row">
 					<ul id="uMenu" class="nav navbar-nav center-block">
-						<li><a href="#">Inicio</a></li>
+						<li><a href="index.php?idPag=ini">Inicio</a></li>
 						<li><a href="#">Experiencia</a></li>
 						<li><a href="#">Sobre Mi</a></li>
 						<li><a href="#">Hobbies</a></li>
@@ -34,7 +43,12 @@
 		<main>
 			<br><br>
 			<?PHP 
-				include './php/build.php';
+				if($idPag=='ini')
+				{
+					include './php/inicio.php';
+				}
+				else
+					include './php/build.php';
 			?>
 		</main>
 	</body>

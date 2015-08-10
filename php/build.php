@@ -3,6 +3,6 @@
 
 ?>
 
-<div class="center-block" id="notice">
+<div class="notice center-block">
 	<h1>Build...</h1>
 </div>
