@@ -18,15 +18,15 @@
 		</header>
 		<div id="dBanner"></div>
 		<nav class="navbar navbar-default center-block">
-			<div class="container center-block">
+			<div class="container">
 				<div class="row">
-					<ul id="uMenu" class="nav navbar-nav">
-						<li><a href="#">Home</a></li>
-						<li><a href="#">Experience</a></li>
-						<li><a href="#">About Me</a></li>
+					<ul id="uMenu" class="nav navbar-nav center-block">
+						<li><a href="#">Inicio</a></li>
+						<li><a href="#">Experiencia</a></li>
+						<li><a href="#">Sobre Mi</a></li>
 						<li><a href="#">Hobbies</a></li>
-						<li><a href="#">I'm Recommended by...</a></li>
-						<li><a href="#">Make a Offer</a></li>
+						<li><a href="#">Recomendado por...</a></li>
+						<li><a href="#">Haz una Oferta</a></li>
 					</div>
 				</ul>
 			</div>

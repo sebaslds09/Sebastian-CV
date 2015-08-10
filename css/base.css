@@ -43,6 +43,12 @@ left: 15px;
 	background-repeat: no-repeat;
 	padding:5px;
 	}
+	
+	#uMenu
+	{
+	position:relative;
+	left:20px;
+	}
 }
 
 @media screen and (min-width: 769px)
@@ -57,5 +63,15 @@ left: 15px;
 	}
 }
 
-@navbar-default-bg=transparent;
+#notice
+{
+width:500px;
+height:300px;
+background-image: url('../img/div.png');
+background-size: 100% 100%;
+background-repeat: no-repeat;
+padding-left:10px;
+padding-top:2px;
+}
+
 
