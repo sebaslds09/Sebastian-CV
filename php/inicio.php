@@ -10,9 +10,9 @@
 				<div class="col-md-6 col-xs-6">
 					<img class="img-responsive" src="./img/content/1.jpg">
 				</div>
-				<div class="col-md-6 col-xs-6 clearfix">
-					<p class="text-info">Soy una persona apasionada por la fotografia y por los retos mentales, me gusta ponerme a prueba resolviendo problemas y creando la escena. 
-					No me gusta forzar las cosas, siempre he pensado que las mejores ideas simplemente fluyen. Por eso me gusta despacio, analisando cada oportunidad que cada problema 
+				<div  class="notice-text">
+					<p class="text-info" align="justify">Soy una persona apasionada por la fotografia y por los retos mentales, me gusta ponerme a prueba resolviendo problemas y creando la escena. 
+					No me gusta forzar las cosas, siempre he pensado que las mejores ideas simplemente fluyen. Por eso me gusta ir despacio, analisando cada oportunidad que cada problema 
 					ofrece para ser solucionado, eso me ha dado la ventaja de poder apreciar cosas que la mayoría de gente no tiene tiempo para detenerse y analizar.</p>
 				</div>
 			</div>
