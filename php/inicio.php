@@ -3,9 +3,8 @@
 
 ?>
 
-<div class="container">
 	<div class="row">
-		<div class="notice col-md-5 col-xs-10 col-xs-offset-1">
+		<div class="notice col-md-5 col-xs-10">
 			<div class="row">
 				<div class="col-md-6 col-xs-6">
 					<img class="img-responsive" src="./img/content/1.jpg">
@@ -17,10 +16,10 @@
 				</div>
 			</div>
 		</div>
-		<div class="notice col-md-5 col-xs-10 col-xs-offset-1 col-md-offset-1">
+		<div class="notice col-md-5 col-xs-10 col-md-offset-2">
 		
 		</div>
 	</div>
-</div>
+
 
 
